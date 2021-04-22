@@ -12,4 +12,4 @@ def start(content):
 
 
 input("Press enter to start the program!")
-start()
+start(content)
